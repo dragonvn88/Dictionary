@@ -5,7 +5,9 @@
 操作説明<Br>
 (1) C# からデータベースとの連携をする。(C# vs Access). <Br>
 (2) データベースからデータを読み込みや書き込みをする。<Br>
-(3) Microsoft Translate Api　でオンライン翻訳する。<Br>
+(3) Microsoft Translate Api　でオンライン翻訳する。<br>
+clientId,clientSecret 非搭載. (clientId,clientSecret notincluded)<Br>
+https://msdn.microsoft.com/en-us/library/dd576287.aspx<br>
 
 機能説明<Br>
  
