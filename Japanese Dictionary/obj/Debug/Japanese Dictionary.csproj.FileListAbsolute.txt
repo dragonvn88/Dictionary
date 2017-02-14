@@ -1,0 +1,55 @@
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe.config
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.pdb
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csprojResolveAssemblyReference.cache
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frOnline.resources
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.Properties.Resources.resources
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csproj.GenerateResource.Cache
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.exe
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.pdb
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frMain.resources
+D:\21 HIEU\10 C#\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frVersion.resources
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe.config
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.exe
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.pdb
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.pdb
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csprojResolveAssemblyReference.cache
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frMain.resources
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frOnline.resources
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frVersion.resources
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.Properties.Resources.resources
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csproj.GenerateResource.Cache
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe.config
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.pdb
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frMain.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frOnline.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frVersion.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.Properties.Resources.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csproj.GenerateResource.Cache
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.exe
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.pdb
+D:\21 HIEU\11 卒業制作\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frLogin.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe.config
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.exe
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.pdb
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.exe
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\bin\Debug\Japanese Dictionary.pdb
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csprojResolveAssemblyReference.cache
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frLogin.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frMain.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frOnline.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frVersion.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.Properties.Resources.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese Dictionary.csproj.GenerateResource.Cache
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frFavorite.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frHelp.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frRecent.resources
+D:\21 HIEU\11 卒業制作\01 Project\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frManager.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frFavorite.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frHelp.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frLogin.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frManager.resources
+C:\Users\C0229\Desktop\Japanese Dictionary\Japanese Dictionary\obj\Debug\Japanese_Dictionary.frRecent.resources
